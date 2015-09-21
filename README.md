@@ -1,3 +1,3 @@
 # yiban
 yiban plist
-yiban config add request
+yiban config add requ
